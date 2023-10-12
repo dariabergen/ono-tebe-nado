@@ -1,6 +1,5 @@
 /* место для вашего кода */
 
-
 .header {
     padding: 92px 50px;
     font-size: 18px;
@@ -49,7 +48,7 @@
     height: inherit;
 }
 
-address {
+.address {
     flex: 0 0 auto;
     width: 40%;
     line-height: 135%;
@@ -60,7 +59,6 @@ address {
 .header__address {
     padding-left: 15%;
 }
-
 
 .cover {
     background: url("../images/cover.jpg") center/cover;
@@ -108,7 +106,6 @@ address {
     width: 100%;
     text-align: center;
     max-width: 1310px;
-
 }
 
 .aligned-text_right {
@@ -133,7 +130,6 @@ address {
     color: #fff;
     padding: 12px 32px;
 }
-
 
 .lots {
     padding: 180px 50px;
@@ -182,12 +178,6 @@ address {
     justify-content: space-between;
 }
 
-.overlay {
-    height: inherit;
-    padding: 165px 50px 50px;
-    background-color: rgba(0, 0, 0, 0.6);
-}
-
 .card__title {
     font-size: 22px;
     font-weight: 700;
@@ -221,7 +211,6 @@ address {
     font-weight: 400;
     border-bottom: 1px solid #000;
 }
-
 
 .about {
     display: flex;
@@ -260,7 +249,6 @@ address {
     margin-top: 100px;
 }
 
-
 .footer {
     font-size: 18px;
     font-weight: 400;
@@ -289,8 +277,8 @@ address {
 }
 
 .footer__menu-list {
-list-style: none;
-text-align: center;
+    list-style: none;
+    text-align: center;
 }
 
 .footer__menu-link_active {
