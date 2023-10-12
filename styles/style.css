@@ -1,5 +1,4 @@
 /* место для вашего кода */
-
 .header {
     padding: 92px 50px;
     font-size: 18px;
@@ -50,7 +49,7 @@
 
 .address {
     flex: 0 0 auto;
-    width: 40%;
+    width: 33.3%;
     line-height: 135%;
     font-style: normal;
     text-underline-position: under;
@@ -259,14 +258,6 @@
 
 .footer__address {
     padding-right: 15.5%;
-}
-
-.address {
-    flex: 0 0 auto;
-    width: 33.3%;
-    line-height: 135%;
-    font-style: normal;
-    text-underline-position: under;
 }
 
 .footer__menu {
